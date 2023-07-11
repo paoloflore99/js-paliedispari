@@ -1,0 +1,40 @@
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+h1 {
+    color: #333;
+    text-align: center;
+}
+    
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+    
+input {
+    
+}
+    
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+    
+.result {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+    
